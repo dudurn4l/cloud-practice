@@ -1,2 +1,3 @@
 worked
 chmod: 600 = rw--------, 644 = rw-r--r--, 755 = rwxr-xr-x, 700 = rwx-------
+goodmorning
