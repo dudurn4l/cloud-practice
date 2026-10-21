@@ -4,3 +4,6 @@ goodmorning
 learned about IP, Port, DNS. IP = Building, Port = Door, DNS is the phonebook that turns websites name into IP Address.
 CIDR: /24 = 256 addresses, /16 = 65536. more fixed = fewer devices. 10.0.0.0/16 = VPC, 10.0.1.0/24 = subnet
 SSH keys: private key stays secret (600), public key goes to github
+its incredibly tedious but im locked in
+grep filters lines, | pipes output
+
