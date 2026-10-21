@@ -7,4 +7,4 @@ SSH keys: private key stays secret (600), public key goes to github
 its incredibly tedious but im locked in
 grep filters lines, | pipes output
 ps aux lists processes, kill <PID> stops a process
-
+cron is for automating scripts, something like a scheduler. there are 5 *s, minute-hour-day of the month-month-day of the week.
